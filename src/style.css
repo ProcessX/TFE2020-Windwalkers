@@ -1831,7 +1831,6 @@
   background-image: url("/assets/interface/mobileController-Base.png");
   background-repeat: no-repeat;
   background-size: contain;
-  filter: invert(1);
 }
 .controller--directionStick:hover, .controller--directionStick focus {
   filter: invert(1);
